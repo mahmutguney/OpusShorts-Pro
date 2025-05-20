@@ -1,76 +1,77 @@
 **Privacy Policy**
 
-This privacy policy applies to the Opus Craft app (hereby referred to as "Application") for mobile devices that was created by Mahmut Güney (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This Privacy Policy applies to the **Opus Craft** mobile application (the "**Application**") provided by **Mahmut Güney** (the "**Service Provider**") under a freemium model. By installing or using the Application, you agree to the practices described below. If you do not agree, please uninstall the Application.
 
-**Information Collection and Use**
+---
 
-The Application collects information when you download and use it. This information may include information such as
+### 1  Data We Collect
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+| Data                              | Description                                                               | Purpose                                      |
+| --------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------- |
+| **Device Data**                   | IP address, device model, iOS version, session length, screens viewed     | App analytics, performance improvement       |
+| **Crash Logs**                    | Stack traces, error codes                                                 | Error detection, stability                   |
+| **User‑Provided Content**         | Video / audio files you **manually select** from the gallery or Files app | Caption generation and highlight suggestions |
+| **Purchase Data (if applicable)** | In‑app purchase receipts (Apple)                                          | Managing premium features                    |
 
-The Application does not gather precise information about the location of your mobile device.
+> **No location, microphone, or camera data is collected.**
+> **Tracking / IDFA:** The Application does **not** collect the advertising identifier (IDFA) and does **not** track users across apps or websites.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+---
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+### 2  Third‑Party Services
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+To deliver core functionality, limited data may be shared with the following service providers:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+* **Google Firebase** — Analytics, crash reports, and cloud storage. [\[Privacy Policy\]](https://firebase.google.com/support/privacy)
+* **RevenueCat** *(if used)* — Subscription processing. [\[Privacy Policy\]](https://www.revenuecat.com/privacy)
 
-**Third Party Access**
+These providers use your data **only** to deliver the requested features and do not use it for advertising or profile building.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+---
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+### 3  Data Retention
 
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+| Service                          | Retention Period             |
+| -------------------------------- | ---------------------------- |
+| Firebase Analytics & Crashlytics | 14 months (default)          |
+| Firebase Storage files           | Until you delete the project |
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+---
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+### 4  Your Rights & Choices
 
-**Opt-Out Rights**
+* **Analytics / Crash Data** → Disable the "Share anonymous diagnostics" toggle under **Settings › Privacy**.
+* **Data deletion** → Use **Settings › Delete Project** or email `mguneystore@gmail.com`.
+* Uninstalling the Application stops all future data collection.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+---
 
-**Data Retention Policy**
+### 5  Children’s Privacy
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at mguneystore@gmail.com and they will respond in a reasonable time.
+The Application is **not directed to children under 13**. If you believe we have inadvertently collected such data, contact us and it will be deleted promptly.
 
-**Children**
+---
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+### 6  Security
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (mguneystore@gmail.com) so that they will be able to take the necessary actions.
+Data is encrypted in transit and at rest; access is limited according to the principle of least privilege.
 
-**Security**
+---
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+### 7  Privacy Nutrition Label (App Privacy Details)
 
-**Changes**
+The **“Privacy Nutrition Label”** displayed on the App Store is an Apple‑formatted summary of this policy and reflects the data practices described herein.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+---
 
-This privacy policy is effective as of 2025-05-20
+### 8  Changes to This Policy
 
-**Your Consent**
+We may update this policy from time to time. We will post the new version in‑app and update the effective date. Continued use of the Application constitutes acceptance of the revised policy.
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+**Effective Date:** 20 May 2025
 
-**Contact Us**
+---
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at mguneystore@gmail.com.
+### 9  Contact
 
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+Questions or requests? Email us at `mguneystore@gmail.com`.
