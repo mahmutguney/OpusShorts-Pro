@@ -1,12 +1,12 @@
 **Terms & Conditions**
 
-These Terms & Conditions (the **“Terms”**) govern your use of the **Opus Craft** mobile application (the **“Application”**) supplied by **Mahmut Güney** (the **“Service Provider”**). By downloading, installing, or using the Application you agree to be bound by these Terms and by the Apple Media Services Terms & Conditions. If you do not agree, please uninstall and discontinue all use of the Application.
+These Terms & Conditions (the **“Terms”**) govern your use of the **Opus Craft** mobile application (the **“Application”**) supplied by **Mahmut Güney** (the **“Service Provider”**). By downloading, installing, or using the Application you agree to be bound by these Terms and by the Apple Media Services Terms & Conditions. These Terms supplement Apple’s standard End‑User License Agreement (EULA) for apps distributed via the App Store, available at [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). If you do not agree, please uninstall and discontinue all use of the Application.
 
 ---
 
 ### 1 License
 
-The Service Provider grants you a limited, non‑exclusive, non‑transferable, revocable licence to use the Application for personal, non‑commercial purposes on any Apple‑branded device that you own or control, in accordance with the App Store Terms of Service.
+The Service Provider grants you a limited, non‑exclusive, non‑transferable, revocable licence to use the Application for personal, non‑commercial purposes on any Apple‑branded device that you own or control, subject to (i) these Terms, and (ii) the **Apple Standard End User License Agreement (EULA)** available at [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) (collectively, the “Apple Terms”). If there is any conflict between these Terms and the Apple Terms, the Apple Terms will govern your use of the Application obtained via the App Store.
 
 ---
 
