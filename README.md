@@ -23,7 +23,7 @@ This Privacy Policy applies to the **Opus Craft** mobile application (the "**App
 To deliver core functionality, limited data may be shared with the following service providers:
 
 * **Google Firebase** — Analytics, crash reports, and cloud storage. [\[Privacy Policy\]](https://firebase.google.com/support/privacy)
-* **RevenueCat** *(if used)* — Subscription processing. [\[Privacy Policy\]](https://www.revenuecat.com/privacy)
+* **RevenueCat** — Subscription processing. [\[Privacy Policy\]](https://www.revenuecat.com/privacy)
 
 These providers use your data **only** to deliver the requested features and do not use it for advertising or profile building.
 
@@ -31,40 +31,33 @@ These providers use your data **only** to deliver the requested features and do 
 
 ### 3  Data Retention
 
-| Service                          | Retention Period             |
-| -------------------------------- | ---------------------------- |
-| Firebase Analytics & Crashlytics | 14 months (default)          |
-| Firebase Storage files           | Until you delete the project |
+| Service                          | Retention Period                                                                                   |
+| -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Firebase Analytics & Crashlytics | 14 months (default)                                                                                |
+| Firebase Storage files           | Until you delete the project                                                                       |
+| RevenueCat subscription data     | While the subscription is active and for up to 90 days after cancellation (for dispute resolution) |
 
 ---
 
-### 4  Your Rights & Choices
-
-* **Analytics / Crash Data** → Disable the "Share anonymous diagnostics" toggle under **Settings › Privacy**.
-* **Data deletion** → Use **Settings › Delete Project** or email `mguneystore@gmail.com`.
-* Uninstalling the Application stops all future data collection.
-
----
-
-### 5  Children’s Privacy
+### 4  Children’s Privacy
 
 The Application is **not directed to children under 13**. If you believe we have inadvertently collected such data, contact us and it will be deleted promptly.
 
 ---
 
-### 6  Security
+### 5  Security
 
 Data is encrypted in transit and at rest; access is limited according to the principle of least privilege.
 
 ---
 
-### 7  Privacy Nutrition Label (App Privacy Details)
+### 6  Privacy Nutrition Label (App Privacy Details)
 
 The **“Privacy Nutrition Label”** displayed on the App Store is an Apple‑formatted summary of this policy and reflects the data practices described herein.
 
 ---
 
-### 8  Changes to This Policy
+### 7  Changes to This Policy
 
 We may update this policy from time to time. We will post the new version in‑app and update the effective date. Continued use of the Application constitutes acceptance of the revised policy.
 
@@ -72,6 +65,6 @@ We may update this policy from time to time. We will post the new version in‑a
 
 ---
 
-### 9  Contact
+### 8  Contact
 
 Questions or requests? Email us at `mguneystore@gmail.com`.
